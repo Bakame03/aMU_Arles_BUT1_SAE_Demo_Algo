@@ -1,0 +1,8 @@
+SAE_S1_02_DEMO_ALGO/*.o
+SAE_S1_02_DEMO_ALGO/*.data
+SAE_S1_02_DEMO_ALGO/insertion
+SAE_S1_02_DEMO_ALGO/selection
+SAE_S1_02_DEMO_ALGO/quicksortdet
+SAE_S1_02_DEMO_ALGO/quicksortrnd
+SAE_S1_02_DEMO_ALGO/stablesort
+SAE_S1_02_DEMO_ALGO/stdsort
